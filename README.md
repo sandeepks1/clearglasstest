@@ -1,7 +1,5 @@
-![image](https://user-images.githubusercontent.com/7323348/128261090-704e5a42-d861-4134-9029-e2d1830356f9.png)
-#Description
+# Description
 Implemented this this task using PHP Laravel framework
-
 # Configuration steps
 Installl WAmP/LAMP
 Install composer
