@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/sandeepks1/clearglasstest/main/sample.png" width="400"></p>
+
 # Description
 Implemented this this task using PHP Laravel framework
 
