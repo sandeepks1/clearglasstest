@@ -1,6 +1,8 @@
 # Description
 Implemented this this task using PHP Laravel framework
+
 # Configuration steps
+
 Installl WAmP/LAMP
 Install composer
 composer global require laravel/installer
